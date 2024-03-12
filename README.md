@@ -71,4 +71,4 @@ A huge thank you to all of the people who have contributed to Interstellar.
 
 [![Contributors](https://contrib.rocks/image?repo=InterstellarNetwork/Interstellar)](https://github.com/InterstellarNetwork/Interstellar/graphs/contributors)
 
-https://interstellar-omega-umber.vercel.app/~
+[https://interstellar-omega-umber.vercel.app/~](https://tinyurl.com/4d6kam5k)https://tinyurl.com/4d6kam5k
